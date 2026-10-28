@@ -1,0 +1,7 @@
+.ruby-lsp/
+.bundle/
+vendor/bundle/
+*.log
+.DS_Store
+.env
+.env.*
